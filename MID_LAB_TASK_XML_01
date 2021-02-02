@@ -1,0 +1,21 @@
+<products>
+          <product sl = '1' no ='a'>
+          <product_name>Samsung</product_name>
+          <id>11</id>
+          <up>35000</up>
+          <stock>50</stock>
+
+  <product sl = '2' no ='b'>
+          <product_name>HTC</product_name>
+          <id>20</id>
+          <up>65300</up>
+          <stock>35</stock>
+
+
+<product sl = '3' no ='c'>
+          <product_name>Nokia</product_name>
+          <id>23</id>
+          <up>25100</up>
+          <stock>100</stock>
+
+</products>
