@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Khan Roman",
+        "email": "romankhan@gmail.com",
+        "username": "Roman21",
+        "password": "321",
+        "CPass": "321",
+        "gender": "Male",
+        "day": "11",
+        "month": "5",
+        "year": "1999"
+    },
+    {
+        "name": "Nakib Ahmed",
+        "email": "nakib225@gmail.com",
+        "username": "nakib23",
+        "password": "777",
+        "CPass": "777",
+        "gender": "Male",
+        "day": "1",
+        "month": "1",
+        "year": "2000"
+    }
+]
