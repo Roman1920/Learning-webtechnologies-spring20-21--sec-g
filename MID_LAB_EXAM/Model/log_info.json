@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "username": "alamin",
+            "password": 123,
+            "email": "alamin@gmail.com"
+        },
+        {
+            "username": "Hossain",
+            "password": 1234,
+            "email": "hossain@gmail.com"
+        },
+        {
+            "username": "Roman",
+            "password": 12345,
+            "email": "roman@gmail.com"
+        },
+        {
+            "username": "Khan",
+            "password": 123456,
+            "email": "khan@gmail.com"
+        },
+        {
+            "username": "Unknown",
+            "password": "1234567",
+            "email": "unkwnon@gmail.com"
+        },
+        {
+            "username": "Anonymous",
+            "password": "12345678",
+            "email": "anony@gmail.com"
+        }
+    ]
+}
